@@ -1,7 +1,7 @@
 {
   "channel": "test",
-  "versionCode": 18,
-  "versionName": "1.0.3-test.18",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-18/CheckDDATest-18.apk",
+  "versionCode": 19,
+  "versionName": "1.0.3-test.19",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-19/CheckDDATest-19.apk",
   "notes": "Тестовая версия. Данные проверок отправляются только в локальный тестовый API через USB."
 }
