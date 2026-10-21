@@ -1,7 +1,7 @@
 ﻿{
     "channel":  "test",
-    "versionCode":  24,
-    "versionName":  "1.0.4-test.24",
-    "apkUrl":  "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-24/CheckDDATest-24.apk",
-    "notes":  "Тестовая версия. Отдельная облачная тестовая база; USB для входа больше не нужен."
+    "versionCode":  25,
+    "versionName":  "1.0.4-test.25",
+    "apkUrl":  "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-25/CheckDDATest-25.apk",
+    "notes":  "Добавлена кнопка «Скачать Vibe Demo» внизу главного экрана и экрана входа. Макет устанавливается отдельно. Тестовая база и данные CheckDDATest сохраняются."
 }
