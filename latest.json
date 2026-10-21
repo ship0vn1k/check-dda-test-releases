@@ -1,7 +1,7 @@
-{
-  "channel": "test",
-  "versionCode": 22,
-  "versionName": "1.0.3-test.22",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-22/CheckDDATest-22.apk",
-  "notes": "Тестовая версия. Данные проверок отправляются только в локальный тестовый API через USB."
+﻿{
+    "channel":  "test",
+    "versionCode":  24,
+    "versionName":  "1.0.4-test.24",
+    "apkUrl":  "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-24/CheckDDATest-24.apk",
+    "notes":  "Тестовая версия. Отдельная облачная тестовая база; USB для входа больше не нужен."
 }
