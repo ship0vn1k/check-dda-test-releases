@@ -1,7 +1,7 @@
-﻿{
-    "channel":  "test",
-    "versionCode":  26,
-    "versionName":  "1.0.4-test.26",
-    "apkUrl":  "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-26/CheckDDATest-26.apk",
-    "notes":  "Обновлена кнопка «Скачать Vibe Demo»: макет 0.2 с камерой, фонариком, подсказками и локальной историей. После обновления скачайте макет этой кнопкой на главном экране или экране входа."
+{
+  "channel": "test",
+  "versionCode": 27,
+  "versionName": "1.0.5-test.27",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-27/CheckDDATest-27.apk",
+  "notes": "Исправлено сохранение сборщика. Администратор может исправлять сборщика в старых проверках; изменения учитываются в отчёте и Excel. Тестовая база, USB не требуется."
 }
