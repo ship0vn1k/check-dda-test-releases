@@ -1,7 +1,8 @@
 {
   "channel": "test",
-  "versionCode": 27,
-  "versionName": "1.0.5-test.27",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-27/CheckDDATest-27.apk",
-  "notes": "Исправлено сохранение сборщика. Администратор может исправлять сборщика в старых проверках; изменения учитываются в отчёте и Excel. Тестовая база, USB не требуется."
+  "versionCode": 29,
+  "versionName": "1.0.5-test.29",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-29/CheckDDATest-29.apk",
+  "notes": "Обновлено оформление кнопок, полей и карточек. Переработаны экраны сканирования и истории, убраны ссылки на демо. Добавлены списки сотрудников по участкам, изменение номеров и перевод с сохранением истории.",
+  "sha256": "56535377c687b09d8fcdd447ab58140711c82de2de8ba660a1940f758716e698"
 }
