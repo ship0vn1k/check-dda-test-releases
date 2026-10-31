@@ -1,8 +1,9 @@
 {
   "channel": "test",
-  "versionCode": 31,
-  "versionName": "1.0.5-test.31",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-31/CheckDDATest-31.apk",
-  "notes": "Добавлена кнопка скачивания Design Lab с четырьмя вариантами оформления. Design Lab устанавливается отдельно и работает на тестовых данных",
-  "sha256": "3a83b71ad2557d56ce248bcd56387d282b87156c464ef3d6c9b341b39665b85c"
+  "versionCode": 34,
+  "versionName": "1.0.6-test.34",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-34/CheckDDATest-34.apk",
+  "notes": "Добавлены списки сборщиков и комплектовщиков по участкам. Номера сотрудников можно менять и переводить сотрудников между списками с сохранением истории. Обновлён интерфейс приложения и отчётов",
+  "sha256": "f7bda501cfff34e5f34296e2e01e74cd05c107a793056b62ae699dd248fe9a63",
+  "sourceCommit": "be7fa65a711c794a038394c1698a69dae2088ce5"
 }
