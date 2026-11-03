@@ -1,9 +1,9 @@
 {
   "channel": "test",
-  "versionCode": 34,
-  "versionName": "1.0.6-test.34",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-34/CheckDDATest-34.apk",
-  "notes": "Добавлены списки сборщиков и комплектовщиков по участкам. Номера сотрудников можно менять и переводить сотрудников между списками с сохранением истории. Обновлён интерфейс приложения и отчётов",
-  "sha256": "f7bda501cfff34e5f34296e2e01e74cd05c107a793056b62ae699dd248fe9a63",
-  "sourceCommit": "be7fa65a711c794a038394c1698a69dae2088ce5"
+  "sourceCommit": "a563ae388cb0324441ed19a18a0b04341626130c",
+  "versionCode": 37,
+  "versionName": "1.0.7-test.37",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-37/CheckDDATest-37.apk",
+  "notes": "Добавлена загрузка обновлений внутри приложения. Перед установкой сохраняются черновик проверки и очередь отправки. Установку подтверждает Android",
+  "sha256": "01dd4af852ad97b6fa25535b12b069f7fb98e5e293ab81c0f72387f7654ef3a9"
 }
