@@ -1,9 +1,9 @@
 {
   "channel": "test",
   "sourceCommit": "a563ae388cb0324441ed19a18a0b04341626130c",
-  "versionCode": 37,
-  "versionName": "1.0.7-test.37",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-37/CheckDDATest-37.apk",
-  "notes": "Добавлена загрузка обновлений внутри приложения. Перед установкой сохраняются черновик проверки и очередь отправки. Установку подтверждает Android",
-  "sha256": "01dd4af852ad97b6fa25535b12b069f7fb98e5e293ab81c0f72387f7654ef3a9"
+  "versionCode": 38,
+  "versionName": "1.0.7-test.38",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-38/CheckDDATest-38.apk",
+  "notes": "Тестовое обновление для проверки загрузки и установки внутри приложения. Черновик проверки и очередь сохраняются",
+  "sha256": "8ea1faa23d4985f060182028e679577d42996c20317bc8688ff2df89319d15d8"
 }
