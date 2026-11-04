@@ -1,9 +1,9 @@
 {
   "channel": "test",
-  "sourceCommit": "35967858d0a2a129d7b5cf0e90bcbd5d56805c5a",
-  "versionCode": 40,
-  "versionName": "1.0.7-test.40",
-  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-40/CheckDDATest-40.apk",
-  "notes": "Тестовое обновление для проверки загрузки и установки внутри приложения. Черновик проверки и очередь сохраняются",
-  "sha256": "e217ef1da175c9423995a454e774c14e1d068d9d7ae16bb0a9ffd43f6f53c2cb"
+  "sourceCommit": "469f39c91a8efb5deda79c76c28a9d016ab6766f",
+  "versionCode": 41,
+  "versionName": "1.0.7-test.41",
+  "apkUrl": "https://github.com/ship0vn1k/check-dda-test-releases/releases/download/test-41/CheckDDATest-41.apk",
+  "notes": "При смене роли обновляется история. Если справочник изменился, приложение проверит выбранного сотрудника и дефекты в открытой форме.",
+  "sha256": "13f19ab4045ed253ad89f7e42895db5b2e40c2056a606a6f4349cfeb143f76a9"
 }
